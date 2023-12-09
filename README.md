@@ -1,7 +1,7 @@
 # Pie-Bakery-Data-Analysis
 
 Project Overview
-Uncover valuable insights and optimize your pie bakery's performance with this data-driven approach.**
+Uncover valuable insights and optimize your pie bakery's performance with this data-driven approach.
 
 Gain insights into:
 
